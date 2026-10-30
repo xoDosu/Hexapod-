@@ -1,2 +1,7 @@
-# Hexapod-
+# Hexapod
 Capstone Project 
+
+
+
+
+
